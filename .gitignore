@@ -1,0 +1,21 @@
+# Ide Helper
+_ide_helper.php
+
+# Laravel
+/vendor
+/node_modules
+/*/node_modules
+.env
+
+# Composer
+composer.phar
+#composer.lock
+
+# Laravel4
+/bootstrap/compiled.php
+/log/*
+.env.*.php
+.env.php
+# carpetas_node
+**/node_modules/*
+!**/node_modules/keep-dir
